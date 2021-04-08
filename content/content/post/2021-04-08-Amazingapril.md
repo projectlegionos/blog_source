@@ -17,7 +17,7 @@ Here we are coming back again to bother you with a new release of **Legion v3.8*
 
 So, let’s see what all we got fixed & What’s new -:
 
-{% highlight markdown %}
+```
 *  Updated Pixel Fingerprint
 *  Update to April security patch
 *  Updated Pixel props
@@ -46,7 +46,7 @@ So, let’s see what all we got fixed & What’s new -:
 *  Added some Qs icon tints
 *  Whole rom code cleanup (Rebase)
 *  Many misc fixes and updates
-{% endhighlight %}
+```
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
