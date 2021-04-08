@@ -6,11 +6,6 @@ tags: [Maintaining OFFICIALLY]
 image: 'legionlogo.png'
 comments: true
 ---
-
-<p align="center">
-<img  src="https://i.imgur.com/6qCMrc2.png">
-</p>
-
 # Maintainers conduct notes:
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
@@ -49,13 +44,13 @@ The maintainers:
 
 - **MUST NOT** enable the Always On Display in case the device has a LCD panel.
 
-- **MUST**, for kernels, follow our [Kernel Guidelines](https://blog.legionos.org/2021-03-30/Kernelguidelines).
+- **MUST**, for kernels, follow our [Kernel Guidelines](https://blog.legionos.org/content/post/2021-03-30-kernelguidelines/).
 
 - About Magisk, the maintainers **MUST NOT**:
 
   - Do any heavy software modification that may lead to Magisk working properly. If possible, recommend to users to stop using Magisk if it's not working properly.
 
-  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://blog.legionos.org/2021-03-30/Kernelguidelines).
+  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://blog.legionos.org/content/post/2021-03-30-kernelguidelines/).
 
 - If you're a maintainer of an A/B partition or a dynamic partition device, you **MUST NOT** ship TWRP prebuilt. Instead, the maintainer **MUST** ship the AOSP Recovery made available by us.
 

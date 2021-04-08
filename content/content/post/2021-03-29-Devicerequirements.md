@@ -6,11 +6,6 @@ tags: [Maintaining OFFICIALLY]
 image: 'legionlogo.png'
 comments: true
 ---
-
-<p align="center">
-<img  src="https://i.imgur.com/6qCMrc2.png">
-</p>
-
 # Device Requirements
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
@@ -25,9 +20,9 @@ Exceptions **SHOULD** be made by contacting the administration team.
 
 - The device **MUST NOT** use custom fingerprints (e.g. Pixels Build fingerprints). LegionOS based on Android 11 is bypassing SafetyNet without any additional modifications on the device side.
 
-- The device **MUST NOT** include any unused overlays and packages. This includes, but is not limited to, packages not being built, packages that don't work, obsolete packages, placebo 'tweaks' or any packages that will include unnecessary and/or unwanted features, as stated at the [Maintainers Code of Conduct](https://blog.legionos.org/2021-03-30/Codeofconduct).
+- The device **MUST NOT** include any unused overlays and packages. This includes, but is not limited to, packages not being built, packages that don't work, obsolete packages, placebo 'tweaks' or any packages that will include unnecessary and/or unwanted features, as stated at the [Maintainers Code of Conduct](https://blog.legionos.org/content/post/2021-03-30-codeofconduct/).
 
-- The device sources **MUST** be in accordance with, if applicable, all the items stated at our [Maintainers Code of Conduct](https://blog.legionos.org/2021-03-30/Codeofconduct) related to the device source code.
+- The device sources **MUST** be in accordance with, if applicable, all the items stated at our [Maintainers Code of Conduct](https://blog.legionos.org/content/post/2021-03-30-codeofconduct/) related to the device source code.
 
 - If the device has Full Disk Encryption (a.k.a FDE), it **MUST NOT** ship/build the Google Play System Updates/Updatable APEX, as the same only works on devices that have File-Base Encryption (FBE) with the device encrypted. The same is applicable for kernel 3.18 or devices with older kernel versions.
 
@@ -43,4 +38,4 @@ Exceptions **SHOULD** be made by contacting the administration team.
 
   - Be as minimal and polished as possible.
 
-  - Be in accordance with the items, if applicable, stated at our [Maintainers Code of Conduct](https://blog.legionos.org/2021-03-30/Codeofconduct).
+  - Be in accordance with the items, if applicable, stated at our [Maintainers Code of Conduct](https://blog.legionos.org/content/post/2021-03-30-codeofconduct/).

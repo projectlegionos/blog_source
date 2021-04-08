@@ -6,11 +6,6 @@ tags: [Maintaining OFFICIALLY]
 image: 'legionlogo.png'
 comments: true
 ---
-
-<p align="center">
-<img  src="https://i.imgur.com/6qCMrc2.png">
-</p>
-
 # Kernel Guidelines:
 
 The following aren't allowed to be added into kernel sources:

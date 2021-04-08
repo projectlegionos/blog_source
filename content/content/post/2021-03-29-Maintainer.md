@@ -6,11 +6,6 @@ tags: [Maintaining OFFICIALLY]
 image: 'legionlogo.png'
 comments: true
 ---
-
-<p align="center">
-<img  src="https://i.imgur.com/6qCMrc2.png">
-</p>
-
 # To become a maintainer of LegionOS:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
@@ -27,7 +22,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 5 - You must show the **real** device sources being used.
 
-6 - Your device must be in accordance with the [Device Requirements](https://blog.legionos.org/2021-03-29/Devicerequirements)
+6 - Your device must be in accordance with the [Device Requirements](https://blog.legionos.org/content/post/2021-03-29-devicerequirements/)
 
 After applying and once your application is acknowledged, you will receive an email from a member of the recruitment committee regarding the acceptance or rejection of the application. 
 
