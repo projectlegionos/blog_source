@@ -50,3 +50,7 @@ pygmentsCodefencesGuessSyntax = true
     name = "Download"
     url = "https://legionos.org/download"
     weight = 3
+
+  [params.adsense]
+client = "ca-pub-1677966849218512"
+inArticleSlot = "9889224810"
