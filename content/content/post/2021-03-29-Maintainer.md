@@ -24,6 +24,9 @@ Before you apply to add your device into our list of official devices, you shoul
 
 6 - Your device must be in accordance with the [Device Requirements](https://blog.legionos.org/content/post/2021-03-29-devicerequirements/)
 
+
+If you are okay with all the terms and conditions there go ahead and fill the application from >>> [HERE](https://forms.gle/YGLuS9YMHxmcjH8F9)
+
 After applying and once your application is acknowledged, you will receive an email from a member of the recruitment committee regarding the acceptance or rejection of the application. 
 
 
