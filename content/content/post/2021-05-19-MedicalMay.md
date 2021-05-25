@@ -39,7 +39,7 @@ So, let’s see what all we got fixed & What’s new -:
 * Added share button in launcer menu
 * Added new icon pack implementation
 ```
-
+<!--adsense-->
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
 Also thats not all of it....We are growing each day ...yeah!!
@@ -66,5 +66,5 @@ Regards,
 
 Team-LegionOS
 
-
+<!--adsense-->
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye

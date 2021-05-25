@@ -10,7 +10,7 @@ Hello Brothers,
 Hope everyone is enjoying their weekend. 
 
 Here we are coming back again to bother you with a new release of **Legion v3.8**
-
+<!--adsense-->
 So, let’s see what all we got fixed & What’s new -:
 
 ```
@@ -58,9 +58,10 @@ Did you like the project? Show your support by donating through [Paypal](https:/
 Regards
 Team-Legion
 
-
+<!--adsense-->
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye
 
 Telegram  : [Link](https://t.me/legionos)
 Website    : [Link](https://legionos.org/)
 Download : [Link](https://legionos.org/download.html)
+<!--adsense-->

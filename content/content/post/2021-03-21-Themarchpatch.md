@@ -37,6 +37,7 @@ So, let’s see what all we got fixed & What’s new -:
 
 **Many Other Device Side Changes. Kindly Check About Phone changelog sections for more details.**
 
+<!--adsense-->
 
 Please do share your reviews and feedback [HERE](https://sourceforge.net/projects/legionrom/reviews). We love the feedback and response we have been getting since the start of this project. Hope to see the same in coming future.
 
@@ -49,5 +50,5 @@ Did you like the project? Show your support by donating through [Paypal](https:/
 Regards
 Team-Legion
 
-
+<!--adsense-->
 ### Thanks for suppport ....keep supporting.....have a great day....kthxbye

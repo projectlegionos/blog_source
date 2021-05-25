@@ -7,7 +7,7 @@ image: 'legionlogo.png'
 comments: true
 ---
 # Kernel Guidelines:
-
+<!--adsense-->
 The following aren't allowed to be added into kernel sources:
 
 - OC/UC/UV, not mattering whether it's for display, GPU or CPU.
@@ -22,3 +22,4 @@ Some suggestions would be to:
 - Prefer to use init scripts to set default values.
 - Change the default tunable value in the kernel.
 - Not recommend hardcoding default values.
+<!--adsense-->
