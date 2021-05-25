@@ -1,4 +1,4 @@
-baseurl = "https://legionos-devices.github.io/"  # Include trailing slash
+baseurl = "https://blog.legionos.org/"  # Include trailing slash
 title = "LegionOS Blog"
 theme = "hugo-swift-theme"
 # theme = "swift"
