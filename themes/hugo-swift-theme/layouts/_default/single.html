@@ -18,7 +18,7 @@
 <h1 class='post_title'>{{ .Title }}</h1>
 <div class = '{{ if .Params.full }}wrap post{{ else }}post{{ end }}'>
   <article class='post_content'>
-    {{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
+    {{- replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }}
     {{ if in $p.mainSections .Type }}
     <div class = 'post_extra'>
       {{- partialCached "copy" . }}
