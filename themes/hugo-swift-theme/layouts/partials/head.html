@@ -1,7 +1,6 @@
 <head>
   <title>{{ with .Title }}{{ . }} | {{ end }}{{ .Site.Title }}</title>
   <meta charset='utf-8'>
-  {{ partial "google/analytics" . }}
   {{ hugo.Generator }}
   {{- with .Site.Params.ga_verify }}
   <meta name="google-site-verification" content="{{ . }}" />
