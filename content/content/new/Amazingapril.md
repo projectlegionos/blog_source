@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LegionOS Version - 3.8
+title: (3.8) LegionOS Changelogs
 subtitle: Amazing April.
 image: 'legionlogo.png'
 tags: [April Patch]

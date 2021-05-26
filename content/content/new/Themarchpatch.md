@@ -1,10 +1,9 @@
 ---
 layout: post
-title: LegionOS Version - 3.7
+title: (3.7) LegionOS Changelogs
 subtitle: Marvelous march.
 tags: [March Patch]
 image: 'legionlogo.png'
-comments: true
 ---
 Hello Brothers,
 

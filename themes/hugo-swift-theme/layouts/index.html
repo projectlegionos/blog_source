@@ -1,3 +1,19 @@
 {{ define "main" }}
-  {{ partial "archive" . }}
+<div>
+  {{- partial "intro" . }}
+  {{- $featuredPosts := .Site.Params.blogDir }}
+  {{- $pages := .Pages }}
+  {{- if .IsHome }}
+    {{- $pages = .Site.RegularPages }}
+    {{- if $featuredPosts }}
+      {{- $pages = where $.Site.RegularPages "Section" $featuredPosts }}
+    {{- end }}
+  {{- end }}
+  <ul class='posts wrap' id = 'posts'>
+    {{- range .Paginator.Pages.ByPublishDate.Reverse}}
+      {{- partial "excerpt" . }}
+    {{- end }}
+  </ul>
+  {{- template "_internal/pagination.html" . }}
+</div>
 {{ end }}

@@ -1,14 +1,17 @@
 {{- partial "intro" . }}
 {{- $filteredPosts := .Site.Params.blogDir }}
 {{- $pages := .Pages }}
-{{- if .IsHome }}
-  {{- $pages = .Site.RegularPages }}
-  {{- if $filteredPosts }}
-    {{- $pages = where $.Site.RegularPages "Section" $filteredPosts }}
-  {{- end }}
-{{- end }}
+
+{{- $posts := .Site.GetPage "posts" }}
+
+    <!-- 2. Sort them from featured to regular, chronologically -->
+    {{ $featuredPosts := where $posts.Pages ".Params.featured" true }}
+    {{ $regularPosts := where $posts.Pages ".Params.featured" false }}
+    {{ $sortedPosts := union $featuredPosts $regularPosts }}
+    {{ $paginator := .Paginate $sortedPosts }}
+
 <ul class='posts wrap' id = 'posts'>
-  {{range .Paginator.Pages.ByPublishDate.Reverse -}}
+  {{- range $paginator.Pages }}
     {{- partial "excerpt" . }}
   {{- end }}
 </ul>

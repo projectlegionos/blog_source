@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Legion Gapps
+title: LegionOS Gapps.
 subtitle: Google apps.
+date: 2021=05-26
 image: 'legionlogo.png'
 tags: [Gapps]
 ---

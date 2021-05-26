@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LegionOS Version - 3.9
+title: (3.9) LegionOS Changelogs
 subtitle: Meticulous May
 tags: [May Patch]
 image: 'legionlogo.png'
