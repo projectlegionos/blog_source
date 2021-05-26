@@ -8,7 +8,7 @@
   {{- end }}
 {{- end }}
 <ul class='posts wrap' id = 'posts'>
-  {{- range (.Paginate $pages).Pages }}
+  {{range .Paginator.Pages.ByPublishDate.Reverse -}}
     {{- partial "excerpt" . }}
   {{- end }}
 </ul>
