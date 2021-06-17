@@ -3,7 +3,7 @@ layout: post
 title: (3.8) LegionOS Changelogs
 subtitle: Amazing April.
 image: 'legionlogo.png'
-tags: [April Patch]
+tags: [Security Patch]
 ---
 Hello Brothers,
 

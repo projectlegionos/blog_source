@@ -2,7 +2,7 @@
 layout: post
 title: (3.7) LegionOS Changelogs
 subtitle: Marvelous march.
-tags: [March Patch]
+tags: [Security Patch]
 image: 'legionlogo.png'
 ---
 Hello Brothers,

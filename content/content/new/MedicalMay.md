@@ -2,7 +2,7 @@
 layout: post
 title: (3.9) LegionOS Changelogs
 subtitle: Meticulous May
-tags: [May Patch]
+tags: [Security Patch]
 image: 'legionlogo.png'
 comments: true
 ---
