@@ -22,7 +22,7 @@ The maintainers:
 
 - **MUST** test every build before sending an OTA update to users. Each build must be thoroughly vetted by the maintainer before it is released, and all hardware and software functionalities MUST be tested before a build is released. Releasing untested builds can (and will) lead to your maintainership being revoked.
 <!--adsense-->
-- **MUST** ship the Vanilla/Normal Edition builds monthly while shipping the Gapps Edition builds are optional. If this is not possible, the reason(s) must be sent to the Legion Administration. In the absence of any explanation, a maintainer will be contacted thrice. If there is no satisfactory answer or the administration does not receive a reply, the maintainer will be kicked without any prior warning. 
+- **MUST** ship the builds monthly . If this is not possible, the reason(s) must be sent to the Legion Administration. In the absence of any explanation, a maintainer will be contacted thrice. If there is no satisfactory answer or the administration does not receive a reply, the maintainer will be kicked without any prior warning. 
 
 - **MUST** maintain authorship of git commits that are pushed, this is a mandatory requirement for ALL repositories. Force-pushes are acceptable, but try to keep them to a minimum.
 
