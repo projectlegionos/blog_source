@@ -1,12 +1,15 @@
 ---
-layout: post
-title: (3.13) LegionOS Changelogs
-subtitle: September
-tags: [Security Patch]
-image: 'legionlogo.png'
-comments: true
+layout:     post
+title:      LegionOS (3.13)
+subtitle:   Sept 2021 Update
+author:     "Rajkale"
+header-img: "img/post-bg-js-module.jpg"
+catalog: true
+tags:
+    - Monthly updates
+    - Security patch
 ---
-Hello Brothers / Sister
+# Hello Brothers / Sister
 
 As we posted earlier  3.13 release is up now. Sorry for the  delay but is because we added some great features for  UI and we update everything and  fixed that stuf which can be done. Only bug now is under dark mode schedule but we working on it.
 Next Updates will be there with new security patches  and we looking forward for Android S .
@@ -43,7 +46,6 @@ Things we added
 - Added/Implement reticker
 - Added switch to make Qs clock Optional
 - Added more translations for FR-GR-IT languages
-
 Fixes with this update:
 - We pass CTS with September patch
 - Improved some system apps
@@ -64,13 +66,10 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the Legion Release v3.13
 
-Download ROM :- [Release v3.13](https://legionos.org/) 
+Download ROM :- [Release v3.13](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
 Regards,
 
 Team Project-LegionOS
-
-<!--adsense-->
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye

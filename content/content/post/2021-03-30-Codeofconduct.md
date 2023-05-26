@@ -21,7 +21,7 @@ The maintainers:
   - Changelogs for each build. These MUST be user-friendly, simplifying the changes for the average user who aren't aware of things like Safetynet or color calibration, but would like to know what has changed since the last update. 
 
 - **MUST** test every build before sending an OTA update to users. Each build must be thoroughly vetted by the maintainer before it is released, and all hardware and software functionalities MUST be tested before a build is released. Releasing untested builds can (and will) lead to your maintainership being revoked.
-<!--adsense-->
+
 - **MUST** ship the builds monthly . If this is not possible, the reason(s) must be sent to the Legion Administration. In the absence of any explanation, a maintainer will be contacted thrice. If there is no satisfactory answer or the administration does not receive a reply, the maintainer will be kicked without any prior warning. 
 
 - **MUST** maintain authorship of git commits that are pushed, this is a mandatory requirement for ALL repositories. Force-pushes are acceptable, but try to keep them to a minimum.
@@ -43,16 +43,15 @@ The maintainers:
   - Any stock firmware app. Once again GoogleCamera is acceptable per se, so is the camera app from the stock firmware itself, only, if fully functional.
 
 - **MUST NOT** enable the Always On Display in case the device has a LCD panel.
-<!--adsense-->
-- **MUST**, for kernels, follow our [Kernel Guidelines](https://blog.legionos.org/content/post/2021-03-30-kernelguidelines/).
+
+- **MUST**, for kernels, follow our [Kernel Guidelines](https://blog.project-legionos.org/content/post/2021-03-30-kernelguidelines/).
 
 - About Magisk, the maintainers **MUST NOT**:
 
   - Do any heavy software modification that may lead to Magisk working properly. If possible, recommend to users to stop using Magisk if it's not working properly.
 
-  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://blog.legionos.org/content/post/2021-03-30-kernelguidelines/).
+  - Do any modifications that may lead to Magisk not work, as per the [Kernel Guidelines](https://blog.project-legionos.org/content/post/2021-03-30-kernelguidelines/).
 
 - If you're a maintainer of an A/B partition or a dynamic partition device, you **MUST NOT** ship TWRP prebuilt. Instead, the maintainer **MUST** ship the AOSP Recovery made available by us.
 
 If any of these rules are broken, the administration will take direct action against the maintainer without prior warning.
-<!--adsense-->

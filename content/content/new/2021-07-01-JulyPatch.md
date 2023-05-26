@@ -1,12 +1,16 @@
 ---
-layout: post
-title: (3.11) LegionOS Changelogs
-subtitle: Joyful July
-tags: [Security Patch]
-image: 'legionlogo.png'
-comments: true
+layout:     post
+title:      LegionOS (3.11)
+subtitle:   Jul 2021 Update
+author:     "Immanuel Raj"
+header-img: "img/post-bg-js-module.jpg"
+catalog: true
+tags:
+    - Monthly updates
+    - Security patch
 ---
-Hello Brothers / Sisters
+
+# Hello Brothers / Sisters
 
 Hope everyone is safe in their homes in this lockdown. 
 
@@ -47,13 +51,10 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the Legion Release v3.11
 
-Download ROM :- [Release v3.11](https://legionos.org/) 
+Download ROM :- [Release v3.11](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
 Regards,
 
 Team Project-LegionOS
-
-<!--adsense-->
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye

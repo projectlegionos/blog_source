@@ -1,11 +1,16 @@
 ---
-layout: post
-title: (3.7) LegionOS Changelogs
-subtitle: Marvelous march.
-tags: [Security Patch]
-image: 'legionlogo.png'
+layout:     post
+title:      LegionOS (3.7)
+subtitle:   Mar 2021 Update
+author:     "Immanuel Raj"
+header-img: "img/post-bg-js-module.jpg"
+catalog: true
+tags:
+    - Monthly updates
+    - Security patch
 ---
-Hello Brothers,
+
+# Hello Brothers,
 
 Hope everyone is enjoying their weekend. 
 
@@ -42,7 +47,7 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the Legion Release v3.7.
 
-Download ROM :- [Release v3.7](https://legionos.org/) 
+Download ROM :- [Release v3.7](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
@@ -50,4 +55,4 @@ Regards
 Team-Legion
 
 <!--adsense-->
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye
+>Thanks for suppport ....keep supporting.....have a great day....kthxbye

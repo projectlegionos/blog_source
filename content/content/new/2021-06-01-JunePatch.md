@@ -1,12 +1,16 @@
 ---
-layout: post
-title: (3.10) LegionOS Changelogs
-subtitle: Just June
-tags: [Security Patch]
-image: 'legionlogo.png'
-comments: true
+layout:     post
+title:      LegionOS (3.10)
+subtitle:   Jun 2021 Update
+author:     "Immanuel Raj"
+header-img: "img/post-bg-js-module.jpg"
+catalog: true
+tags:
+    - Monthly updates
+    - Security patch
 ---
-Hello Brothers / Sisters
+
+# Hello Brothers / Sisters
 
 Hope everyone is safe in their homes in this lockdown. 
 
@@ -45,13 +49,10 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the Legion Release v3.10
 
-Download ROM :- [Release v3.10](https://legionos.org/) 
+Download ROM :- [Release v3.10](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
 Regards,
 
 Team-LegionOS
-
-<!--adsense-->
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye

@@ -2,7 +2,6 @@
 layout: post
 title: LegionOS Gapps.
 subtitle: Google apps.
-date: 2021=05-26
 image: 'legionlogo.png'
 tags: [Gapps]
 ---
@@ -48,17 +47,13 @@ Please do share your reviews and feedback [HERE](https://sourceforge.net/project
 
 Hope You All Enjoy the LegionOS
 
-Download ROM :- [Link](https://legionos.org/) 
+Download ROM :- [Link](https://project-legionos.org/) 
 
 Did you like the project? Show your support by donating through [Paypal](https://paypal.me/rajkale99) and  through UPI (for India Only):- kaleraj.rk@okicici
 
 Regards
 Team-Legion
 
-<!--adsense-->
-### Thanks for suppport ....keep supporting.....have a great day....kthxbye
-
 Telegram  : [Link](https://t.me/legionos)
-Website    : [Link](https://legionos.org/)
-Download : [Link](https://legionos.org/download.html)
-<!--adsense-->
+Website    : [Link](https://project-legionos.org/)
+Download : [Link](https://project-legionos.org/download.html)
