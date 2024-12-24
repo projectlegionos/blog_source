@@ -24,12 +24,11 @@ jobs:
         run: hugo
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: legionos-devices/legionos-devices.github.io
+          external_repository: legionos-devices/legionos-devices.github.io/
           publish_branch: master
-          CNAME: blog.Project-LegionOS.github.io
           publish_dir: ./public
           user_name: 'rajkale99'
           user_email: 'kaleraj.rk@gmail.com'
