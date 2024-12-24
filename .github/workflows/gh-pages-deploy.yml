@@ -29,7 +29,7 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: legionos-devices/legionos-devices.github.io
           publish_branch: master
-          CNAME: blog.Project-Legionos.org
+          CNAME: blog.Project-LegionOS.github.io
           publish_dir: ./public
           user_name: 'rajkale99'
           user_email: 'kaleraj.rk@gmail.com'
