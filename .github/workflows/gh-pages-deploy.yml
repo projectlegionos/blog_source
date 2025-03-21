@@ -27,8 +27,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
-          external_repository: legionos-devices/legionos-devices.github.io
+          external_repository: projectlegionos/projectlegionos.github.io
           publish_branch: master
           publish_dir: ./public
-          user_name: 'rajkale99'
-          user_email: 'kaleraj.rk@gmail.com'
+          user_name: 'projectlegionos'
+          user_email: 'projectlegionos@gmail.com'
