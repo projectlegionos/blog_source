@@ -5,7 +5,10 @@ theme = "hugo-swift-theme"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
-pagination.pagerSize = 6
+# page
+disableAliases = false
+pagerSize = 6
+path = 'page'
 # Enable syntax highlighting
 # comment on delete the following lines 11 ~ 13
 pygmentsCodefences = true
